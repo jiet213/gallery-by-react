@@ -28,6 +28,5 @@ $RECYCLE.BIN/
 # App specific
 
 node_modules/
-dist/
 .tmp
 /src/main.js
